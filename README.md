@@ -34,9 +34,10 @@ Team policies, standards, and conventions:
 
 ## 🚀 Quick Links
 
-- [How to Contribute](CONTRIBUTING.md)
-- [Documentation Templates](#templates)
-- [Team Resources](#)
+- [📍 Documentation Map](DOCUMENTATION_MAP.md) - Visual guide to the documentation structure
+- [✍️ How to Contribute](CONTRIBUTING.md) - Guidelines for adding/updating documentation
+- [📋 Documentation Templates](templates/) - Reusable templates for consistency
+- [🎓 New Member Onboarding](guides/onboarding.md) - Start here if you're new
 
 ## 📝 Getting Started
 
